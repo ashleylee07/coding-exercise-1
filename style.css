@@ -1,0 +1,23 @@
+/* style.css */
+body {
+    background-color: rgb(226, 139, 154);
+    text-align: center;
+    color: rgb(255, 255, 255);
+
+}
+
+p{
+    font-size: 23px;
+    
+}
+a{
+    color: bisque;
+    font-size: 18px;
+    transition: 2s;
+}
+a:hover {
+    color: rgb(96, 27, 27);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 21px;
+
+} 
